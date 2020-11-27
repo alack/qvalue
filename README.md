@@ -1,6 +1,8 @@
+![comparability badge](https://img.shields.io/badge/Python-Python3-brightgreen)
 qvalue
 ======
-https://img.shields.io/badge/Python-Python3-brightgreen
+**from nfusi/qvalue**
+
 Converts p-values in q-values, see (Storey and Tibshirani, 2003)
 
 The only function that needs to be called is 'estimate()'. 
